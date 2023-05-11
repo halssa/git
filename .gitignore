@@ -1,1 +1,4 @@
-modules/
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+desktop.ini
